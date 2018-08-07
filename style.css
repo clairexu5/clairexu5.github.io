@@ -1,5 +1,9 @@
 body {
-  background-color: darkturquoise;
+  background-color: plum;
   color:white;
   font-size: 150%;
+}
+
+h1 {
+  font-family: arial;
 }
