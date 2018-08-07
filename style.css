@@ -1,9 +1,21 @@
 body {
-  background-color: red;
+  background-color: plum;
   color:white;
   font-size: 150%;
 }
 
-h1 {
-  font-family: arial;
+#header {
+  font-family: 'Cookie', cursive;
+  font-size:  200%
 }
+
+.image {
+  border-style: dotted;
+  border-width: 5px;
+}
+
+*{
+  text-align: center;
+}
+
+
